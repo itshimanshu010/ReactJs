@@ -1,0 +1,3 @@
+npm-> node package manager
+npx-> node package executer
+create-react-app ->utility(software) by which we create new app
